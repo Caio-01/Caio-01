@@ -1,8 +1,16 @@
-# Oii, Eu sou o Caio 😄
+# Olá! Eu sou o Caio 😃👋🏾
+## Sobre Mim📝
+<p>
+  Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus   conhecimentos.🧠👨🏾‍💻
+</p>
 
-<h4>
-  Sou estudante de Análise e Desenvolvimento de Sistemas📚.
-</h4>
+<p align="center">
+  <ul>
+    <li>⚡ Tenho habilidades com HTML, CSS e JavaScript.</li>
+    <li>📚 Aprendendo desenvolvimento web com Angular, TypeScript e JavaScript.</li>
+    <li>🔭 Desenvolvimento de software.</li>
+  </ul>
+</p>
 
 ### GitHub Stats 
 
