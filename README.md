@@ -1,4 +1,4 @@
-# Olá! Eu sou o Caio 😃👋🏾
+# Olá! Eu sou o Caio 👋🏾😃
 ## Sobre Mim📝
 <p>
   Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus   conhecimentos.🧠👨🏾‍💻
@@ -35,5 +35,12 @@
   <a href = "mailto:caiosantos.costa02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-costa94" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+<br>
+<p align="center">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="500">
+</p>
+<br><br>
 
 
