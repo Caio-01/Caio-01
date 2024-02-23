@@ -1,4 +1,6 @@
-# Olá! Eu sou o Caio 👋🏾😃
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79ff97&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+Eu+sou+o+Caio%F0%9F%91%8B%F0%9F%8F%BE%F0%9F%98%83)](https://git.io/typing-svg)
 ## Sobre Mim📝
 <p>
   Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus   conhecimentos.🧠👨🏾‍💻
