@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79ff97&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+Eu+sou+o+Caio%F0%9F%91%8B%F0%9F%8F%BE%F0%9F%98%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=38&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+Eu+sou+o+Caio!+%F0%9F%91%8B%F0%9F%8F%BE%F0%9F%98%80)](https://git.io/typing-svg)
 ## Sobre Mim📝
 <p>
   Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus   conhecimentos.🧠👨🏾‍💻
@@ -33,7 +33,7 @@
 ##
 ### Conecte-se comigo
 <div> 
-   <a href="https://www.instagram.com/_caiio.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_caiio.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:caiosantos.costa02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-costa94" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
