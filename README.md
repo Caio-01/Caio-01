@@ -13,7 +13,7 @@
 <p align="center">
   <ul>
     <li>⚡ Tenho habilidades com HTML, CSS e JavaScript.</li>
-    <li>📚 Aprendendo a desenvolver com Node.js, Angular e TypeScript.</li>
+    <li>📚 Aprendendo a desenvolver com Node.js, TypeScript e Angular.</li>
     <li>🔭 Desenvolvimento de software.</li>
   </ul>
 </p>
