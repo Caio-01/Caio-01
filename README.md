@@ -12,8 +12,8 @@
 
 <p align="center">
   <ul>
-    <li>⚡ Tenho habilidades com HTML, Tailwind CSS e JavaScript.</li>
-    <li>📚 Aprendendo a desenvolver com React, TypeScript e Node.js.</li>
+    <li>⚡ Tenho habilidades com React, Tailwind CSS e JavaScript.</li>
+    <li>📚 Aprendendo a desenvolver com Next.js, TypeScript e Node.js.</li>
     <li>🔭 Desenvolvimento de software.</li>
   </ul>
 </p>
