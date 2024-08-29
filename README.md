@@ -5,7 +5,7 @@
 
 </h1>
 
-### 📝 Sobre Mim
+<h3 align="center">📝 Sobre Mim</h3>
 <p>
   Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus conhecimentos.🧠👨🏾‍💻
 </p>
