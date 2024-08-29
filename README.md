@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">📝 Sobre Mim</h3>
+<h3 align="left">📝 Sobre Mim</h3>
 <p>
   Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus conhecimentos.🧠👨🏾‍💻
 </p>
@@ -20,18 +20,18 @@
 
 ##
 
-<h3 align="center">📈 Estatísticas</h3>
+<h3 align="left">📈 Estatísticas</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Caio-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&bg_color=151515&title_color=FBFBFB&text_color=FBFBFB&icon_color=79FF97&ring_color=79FF97&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ##
 
-<h3 align="center">💻 Habilidades</h3>
+<h3 align="left">💻 Habilidades</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
@@ -53,9 +53,9 @@
 
 ##
 
-<h3 align="center">🌐 Conecte-se comigo</h3>
+<h3 align="left">🌐 Conecte-se comigo</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/caiocosta94" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
   <a href = "mailto:caiosantos.costa02@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  /></a>
   <a href="https://www.instagram.com/_caiio.s" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  /></a>
