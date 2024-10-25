@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79ff97&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00367c&height=120&section=header"/>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Caio+%F0%9F%91%8B%F0%9F%8F%BE%F0%9F%98%80;Welcome+to+me+profile!+%F0%9F%93%8A" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 <h3 align="left">📈 Estatísticas</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&bg_color=151515&title_color=FBFBFB&text_color=FBFBFB&icon_color=79FF97&ring_color=79FF97&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caio-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&bg_color=151515&title_color=FBFBFB&text_color=FBFBFB&icon_color=00367c&ring_color=00367c&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
