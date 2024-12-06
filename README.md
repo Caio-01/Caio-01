@@ -12,8 +12,8 @@
 
 <p align="center">
   <ul>
-    <li>⚡ Tenho habilidades com Angular, React, Tailwind CSS e JavaScript.</li>
-    <li>📚 Aprimorando meus conhecimentos em Next.js, TypeScript e Node.js.</li>
+    <li>⚡ Tenho habilidades com Angular, Sass, Tailwind CSS e TypeScript.</li>
+    <li>📚 Aprimorando meus conhecimentos em Next.js, React e Node.js.</li>
     <li>🔭 Desenvolvimento de software.</li>
   </ul>
 </p>
