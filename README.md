@@ -7,13 +7,14 @@
 
 <h3 align="left">📝 Sobre Mim</h3>
 <p>
-  Como estudante de Análise e Desenvolvimento de Sistemas (ADS), estou sempre em busca de aprendizado contínuo e apaixonado por compartilhar meus conhecimentos.🧠👨🏾‍💻
+  Sou estudante de Análise e Desenvolvimento de Sistemas com interesse em tecnologia e programação. Atualmente, sou Técnico de TI e bolsista em um programa de desenvolvimento mobile, onde estou aprimorando meus conhecimentos em tecnologias móveis avançadas, além de expandir minhas habilidades em desenvolvimento web e de software.
 </p>
 
 <p align="center">
-  <ul>
-    <li>⚡ Tenho habilidades com Angular, Sass, Tailwind CSS e TypeScript.</li>
-    <li>📚 Aprimorando meus conhecimentos em Next.js, React e Node.js.</li>
+ <ul>
+    <li>⚡ Experiência com Angular, TypeScript e Sass.</li>
+    <li>💼 Habilidades em SQL Server para gerenciamento de dados.</li>
+    <li>📚 Aprimorando meus conhecimentos em Next.js, Tailwind CSS, React e Node.js.</li>
     <li>🔭 Desenvolvimento de software.</li>
   </ul>
 </p>
