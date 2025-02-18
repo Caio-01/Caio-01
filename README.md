@@ -25,7 +25,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Caio-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&bg_color=151515&title_color=FBFBFB&text_color=FBFBFB&icon_color=003c87&ring_color=003c87&theme=false&locale=en&hide_border=false&border_color=2F353D" height="190" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-01&locale=en&bg_color=151515&title_color=FBFBFB&text_color=9f9f9f&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=false&hide_border=false&border_color=2F353D" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-01&locale=en&bg_color=151515&title_color=FBFBFB&text_color=9f9f9f&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&border_color=2F353D" height="150" alt="languages graph" />
 </div>
 
 ##
