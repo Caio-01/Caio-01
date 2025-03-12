@@ -7,7 +7,7 @@
 
 <h3 align="left">📝 Sobre Mim</h3>
 <p>
-  Possuo formação em Análise e Desenvolvimento de Sistemas, com interesse em tecnologia e programação. Atualmente, sou Técnico de TI e bolsista em um programa de desenvolvimento mobile, onde estou aprimorando meus conhecimentos em tecnologias móveis avançadas, além de expandir minhas habilidades em desenvolvimento web e de software.
+  Possuo formação em Análise e Desenvolvimento de Sistemas, com interesse em tecnologia e programação. Atualmente, sou Assistente de TI e bolsista em um programa de desenvolvimento mobile, onde estou aprimorando meus conhecimentos em tecnologias móveis avançadas, além de expandir minhas habilidades em desenvolvimento web e de software.
 </p>
 
 <p align="center">
