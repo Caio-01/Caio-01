@@ -7,14 +7,14 @@
 
 <h3 align="left">📝 Sobre Mim</h3>
 <p>
-  Possuo formação em Análise e Desenvolvimento de Sistemas, com interesse em tecnologia e programação. Atualmente, sou Assistente de TI e bolsista em um programa de desenvolvimento mobile, onde estou aprimorando meus conhecimentos em tecnologias móveis avançadas, além de expandir minhas habilidades em desenvolvimento web e de software.
+  Possuo formação em Análise e Desenvolvimento de Sistemas, com interesse em tecnologia e programação. Atualmente, trabalho com desenvolvimento Full Stack, utilizando ASP Classic, jQuery, AJAX e SQL Server. Também sou bolsista em um programa de desenvolvimento mobile, onde estou aprimorando meus conhecimentos em tecnologias móveis avançadas, além de expandir minhas habilidades em desenvolvimento web e de software.
 </p>
 
 <p align="center">
  <ul>
     <li>⚡ Experiência com Angular, TypeScript e Sass.</li>
     <li>💼 Habilidades em SQL Server para gerenciamento de dados.</li>
-    <li>📚 Aprimorando meus conhecimentos em Next.js, Tailwind CSS, React e Node.js.</li>
+    <li>📚 Aprimorando meus conhecimentos em Spring Boot.</li>
     <li>🔭 Desenvolvimento de software.</li>
   </ul>
 </p>
@@ -33,10 +33,6 @@
 <h3 align="left">💻 Tecnologias</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo"  />
@@ -45,6 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="38" alt="sass logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="38" alt="tailwindcss logo"  />
@@ -52,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38" alt="microsoftsqlserver logo"  />
 </div>
 
 ##
