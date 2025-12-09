@@ -7,7 +7,7 @@
 
 <h3 align="left">📝 Sobre Mim</h3>
 <p>
-  Possuo formação em Análise e Desenvolvimento de Sistemas, com interesse em tecnologia e programação. Atualmente, trabalho com desenvolvimento Full Stack, utilizando ASP Classic, jQuery, AJAX e SQL Server. Também sou bolsista em um programa de desenvolvimento mobile, onde estou aprimorando meus conhecimentos em tecnologias móveis avançadas, além de expandir minhas habilidades em desenvolvimento web e de software.
+   Possuo formação em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor Full Stack utilizando ASP Classic, jQuery, AJAX e SQL Server, além de buscar novas habilidades para contribuir na construção de soluções eficientes.
 </p>
 
 <p align="center">
