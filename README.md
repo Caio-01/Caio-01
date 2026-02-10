@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003c87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038ead&height=120&section=header"/>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Caio+%F0%9F%91%8B%F0%9F%8F%BE%F0%9F%98%80;Welcome+to+me+profile!+%F0%9F%93%8A" alt="Typing SVG" />
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">📈 Estatísticas</h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&bg_color=151515&title_color=FBFBFB&text_color=FBFBFB&icon_color=003c87&ring_color=003c87&locale=en&hide_border=false&border_color=2F353D" height="190" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-01&locale=en&bg_color=151515&title_color=FBFBFB&text_color=9f9f9f&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&border_color=2F353D" height="150" alt="languages graph" />
+<div align="center">
+   <img width="49%" height="195px" src="https://github-readme-stats-delta-khaki-54.vercel.app/api?username=Caio-01&show_icons=true&count_private=true&title_color=038ead&icon_color=A5A692&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats-delta-khaki-54.vercel.app/api/top-langs/?username=Caio-01&layout=compact&title_color=038ead&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
 ##
