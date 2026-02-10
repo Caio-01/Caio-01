@@ -24,7 +24,7 @@
 <h3 align="left">📈 Estatísticas</h3>
 
 <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats-delta-khaki-54.vercel.app/api?username=Caio-01&show_icons=true&count_private=true&title_color=038ead&icon_color=A5A692&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+   <img width="49%" height="195px" src="https://github-readme-stats-delta-khaki-54.vercel.app/api?username=Caio-01&show_icons=true&count_private=true&title_color=038ead&icon_color=A5A692&text_color=fff&bg_color=0d1117&border_color=fff0" /> 
    <img width="41%" height="195px" src="https://github-readme-stats-delta-khaki-54.vercel.app/api/top-langs/?username=Caio-01&layout=compact&title_color=038ead&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
