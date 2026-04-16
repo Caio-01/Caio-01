@@ -7,15 +7,16 @@
 
 <h3 align="left">📝 Sobre Mim</h3>
 <p>
-   Possuo formação em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor Full Stack utilizando ASP Classic, jQuery, AJAX e SQL Server, além de buscar novas habilidades para contribuir na construção de soluções eficientes.
+  Desenvolvedor Full Stack com experiência na evolução e construção de sistemas corporativos.
 </p>
 
 <p align="center">
  <ul>
-    <li>⚡ Experiência com Angular, TypeScript e Sass.</li>
-    <li>💼 Habilidades em SQL Server para gerenciamento de dados.</li>
-    <li>📚 Aprimorando meus conhecimentos em Spring Boot.</li>
-    <li>🔭 Desenvolvimento de software.</li>
+     <li>💼 Atuação com ASP Classic, SQL Server e JavaScript (jQuery/AJAX)</li>
+     <li>🔧 Experiência com manutenção, melhorias e criação de funcionalidades em sistemas internos</li>
+     <li>⚡ Conhecimento em Angular, TypeScript, React e Node.js</li>
+     <li>🗄️ Foco em modelagem e integração de dados</li>
+     <li>📚 Atualmente estudando Engenharia de Dados e C#</li>
   </ul>
 </p>
 
